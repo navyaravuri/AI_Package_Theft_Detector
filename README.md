@@ -48,7 +48,7 @@ Porch piracy is a growing problem. This project uses **AI-powered video analysis
 
 ## 📁 Project Structure
 
-```text
+``
 package-theft-detector/
 │
 ├── app.py                 # Main application entry point
@@ -75,12 +75,12 @@ package-theft-detector/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/navyaravuri/package-theft-detector.git
 cd package-theft-detector
 
 ### 2. Create a Virtual Environment
-```bash
+
 # For macOS/Linux
 python3.11 -m venv venv
 source venv/bin/activate
@@ -90,13 +90,13 @@ python -m venv venv
 venv\Scripts\activate
 
 ### Install Dependencies
-```bash
+
 pip install --upgrade pip
 pip install ultralytics opencv-python gradio numpy
 
 
 ### Run the Application Locally
-```bash
+
 python app.py
 Note: Once running, the terminal will provide a local URL: 'http://127.0.0.1:7860'. Open this in your browser to use the app.
 
