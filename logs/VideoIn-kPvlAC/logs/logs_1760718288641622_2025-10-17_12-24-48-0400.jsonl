@@ -1,0 +1,4 @@
+{"ts":"2025-10-17T12:24:48.641622-04:00","pid":48145,"thid":8415862976,"lvl":"INFO","msg":"[Filter] Raw subject data export is DISABLED (set OPENLINEAGE_EXPORT_RAW_DATA=true to enable)"}
+{"ts":"2025-10-17T12:24:48.642384-04:00","pid":48145,"thid":8415862976,"lvl":"INFO","msg":"VideoIn(config={'outputs': ['tcp://*'], 'pipeline_id': 'Navyas-MacBook-Air.local-e077c29a-c75c-4ada-955a-21353601c9f4', 'device_name': 'Navyas-MacBook-Air.local', 'id': 'VideoIn-kPvlAC', 'sources': [{'source': 'file://your_video.mp4', 'topic': 'main', 'options': {}}]})"}
+{"ts":"2025-10-17T12:24:48.643799-04:00","pid":48145,"thid":8415862976,"lvl":"INFO","msg":"sender VideoIn-kPvlAC: publishing on tcp://*:5550, listening on tcp://*:5551"}
+{"ts":"2025-10-17T12:24:48.669491-04:00","pid":48145,"thid":8415862976,"lvl":"ERROR","msg":"No module named 'vidgear'"}

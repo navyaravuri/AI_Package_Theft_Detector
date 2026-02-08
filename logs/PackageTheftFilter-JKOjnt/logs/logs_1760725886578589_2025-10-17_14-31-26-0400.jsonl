@@ -1,0 +1,5 @@
+{"ts":"2025-10-17T14:31:26.578589-04:00","pid":48884,"thid":8415862976,"lvl":"INFO","msg":"[Filter] Raw subject data export is DISABLED (set OPENLINEAGE_EXPORT_RAW_DATA=true to enable)"}
+{"ts":"2025-10-17T14:31:26.578942-04:00","pid":48884,"thid":8415862976,"lvl":"INFO","msg":"PackageTheftFilter(config={'detection_confidence': 0.35, 'suspicion_threshold': 0.6, 'approach_distance_threshold': 120, 'package_classes': ['suitcase', 'backpack', 'handbag', 'box'], 'person_class': 'person', 'id': 'PackageTheftFilter-JKOjnt'})"}
+{"ts":"2025-10-17T14:31:26.719909-04:00","pid":48884,"thid":8415862976,"lvl":"INFO","msg":"HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events \"HTTP/1.1 200 OK\""}
+{"ts":"2025-10-17T14:31:26.725809-04:00","pid":48884,"thid":8415862976,"lvl":"INFO","msg":"HTTP Request: HEAD http://127.0.0.1:7860/ \"HTTP/1.1 200 OK\""}
+{"ts":"2025-10-17T14:31:27.032961-04:00","pid":48884,"thid":6151024640,"lvl":"INFO","msg":"HTTP Request: GET https://api.gradio.app/pkg-version \"HTTP/1.1 200 OK\""}

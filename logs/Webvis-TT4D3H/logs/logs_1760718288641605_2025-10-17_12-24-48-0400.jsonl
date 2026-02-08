@@ -1,0 +1,3 @@
+{"ts":"2025-10-17T12:24:48.641606-04:00","pid":48147,"thid":8415862976,"lvl":"INFO","msg":"[Filter] Raw subject data export is DISABLED (set OPENLINEAGE_EXPORT_RAW_DATA=true to enable)"}
+{"ts":"2025-10-17T12:24:48.642189-04:00","pid":48147,"thid":8415862976,"lvl":"INFO","msg":"Webvis(config={'sources': ['tcp://localhost'], 'pipeline_id': 'Navyas-MacBook-Air.local-e077c29a-c75c-4ada-955a-21353601c9f4', 'device_name': 'Navyas-MacBook-Air.local', 'id': 'Webvis-TT4D3H'})"}
+{"ts":"2025-10-17T12:24:48.643681-04:00","pid":48147,"thid":8415862976,"lvl":"INFO","msg":"receiver Webvis-TT4D3H: subscribed on tcp://localhost:5550, requesting on tcp://localhost:5551"}
