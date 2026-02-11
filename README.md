@@ -48,7 +48,6 @@ Porch piracy is a growing problem. This project uses **AI-powered video analysis
 
 ## 📁 Project Structure
 
-``
 package-theft-detector/
 │
 ├── app.py                 # Main application entry point
