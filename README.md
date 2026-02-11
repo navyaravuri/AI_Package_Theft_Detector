@@ -48,6 +48,7 @@ Porch piracy is a growing problem. This project uses **AI-powered video analysis
 
 ## 📁 Project Structure
 
+```bash
 package-theft-detector/
 ├── app.py             # Main application entry point
 ├── requirements.txt   # Python dependencies (optional)
@@ -55,6 +56,7 @@ package-theft-detector/
 ├── models/            # ML / YOLO models
 ├── outputs/           # Generated annotated videos
 └── assets/            # Sample media or resources
+```
 
 ## 📸 Screenshots
 
